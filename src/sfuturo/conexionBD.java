@@ -21,7 +21,7 @@ public class conexionBD {
              System.out.println("Conexión exitosa");
         } catch (Exception e) {
             System.err.println("Error: "+ e);
-        }
+        }hola camilo como estas 
     }
     
 }
